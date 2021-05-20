@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daiten
 - 👀 I’m interested in TensorFlow, Keras and PyTorch.
-- 🌱 I’m currently learning Python 3
+- 🌱 I’m currently learning Python 3 and Data Science
 - 💞️ I’m looking to collaborate on deep learning projects
 - 📫 How to reach me assasinindy@gmail.com
 
